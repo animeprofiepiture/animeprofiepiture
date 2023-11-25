@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 ### Backend
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=FFD43B&labelColor=4B8BBE)
-![](https://img.shields.io/badge/Flask-SQLAlchemy-informational?style=flat&logo=flask&logoColor=white&color=000000&labelColor=000000)
-![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=FFFFFF&color=326691&labelColor=326691)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=43853D&labelColor=43853D)
 ![](https://img.shields.io/badge/Express.js-informational?style=flat&logoColor=white&color=404D59&labelColor=404D59)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4EA94B&labelColor=4EA94B)
@@ -37,6 +35,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=E11A22&color=DEE4E4&labelColor=DEE4E4)
 
 
-[![AbreuY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=animeprofiepiture&show_icons=true&theme=dracula)](https://github.com/animeprofiepiture)
+[![Zedd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=animeprofiepiture&show_icons=true&theme=dracula)](https://github.com/animeprofiepiture)
 
-![Profile views](https://gpvc.arturio.dev/animeprofiepiture)
