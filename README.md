@@ -19,20 +19,33 @@ Here are some ideas to get you started:
 ### 📖 I am currently in the process of learning
 
 ### Frontend
-![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=F66415&labelColor=F66415)
-![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=2299F8&labelColor=2299F8)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=000000&color=F7E018&labelColor=F7E018)
-![](https://img.shields.io/badge/React.js-informational?style=flat&logo=react&logoColor=61dbfb&color=20232a&labelColor=20232a)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Backend
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=FFD43B&labelColor=4B8BBE)
-![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=43853D&labelColor=43853D)
-![](https://img.shields.io/badge/Express.js-informational?style=flat&logoColor=white&color=404D59&labelColor=404D59)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4EA94B&labelColor=4EA94B)
+### 🌱 Soon...
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Also interested in Android mobile development
-![](https://img.shields.io/badge/Android-informational?style=flat&logo=Android&logoColor=78C257&color=FFFFFF&labelColor=FFFFFF)
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=E11A22&color=DEE4E4&labelColor=DEE4E4)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### In Wishlist
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
 [![Zedd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=animeprofiepiture&show_icons=true&theme=dracula)](https://github.com/animeprofiepiture)
