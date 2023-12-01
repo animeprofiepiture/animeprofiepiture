@@ -57,3 +57,4 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ![Zedd's GitHub stats](https://github-readme-stats.vercel.app/api?username=animeprofiepiture&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animeprofiepiture&layout=pie)](https://github.com/animeprofiepiture/github-readme-stats)
