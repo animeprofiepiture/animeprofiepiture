@@ -56,5 +56,5 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-![Zedd's GitHub stats](https://github-readme-stats.vercel.app/api?username=animeprofiepiture&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animeprofiepiture&layout=pie)](https://github.com/animeprofiepiture/github-readme-stats)
+![Zedd's GitHub stats](https://github-readme-stats.vercel.app/api?username=animeprofiepiture&show_icons=true&rank_icon=github&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animeprofiepiture&layout=donut&theme=radical)](https://github.com/animeprofiepiture/github-readme-stats)
