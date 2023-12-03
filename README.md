@@ -57,6 +57,6 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 [![Zedd's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=animeprofiepiture&show_icons=true&rank_icon=github&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Zedd's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=animeprofiepiture&show_icons=true&rank_icon=github&theme=radical&bg_color=#fffff#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Zedd's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=animeprofiepiture&show_icons=true&rank_icon=github&theme=moltack#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=animeprofiepiture&layout=donut&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=animeprofiepiture&layout=donut&theme=moltack#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
